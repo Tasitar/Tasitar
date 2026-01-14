@@ -10,11 +10,8 @@
 - ╰（‵□′）╯
   
   
-- I’m currently learning Git, html, css, JS y GitHub
-- (ノω<。)ノ))☆.。
-   
-  
-- Mis Variantes: siche?/ yesche? / si #? / si wey?
+- I’m currently learning Git, github, html, css, JS y TS
+    
 - ♨︎_♨︎ 
   
 
