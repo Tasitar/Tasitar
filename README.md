@@ -6,12 +6,9 @@
 
 <img width="40%" align="right" alt="Github" src="https://i.giphy.com/lG9Wk5GqkBEDewwFdO.webp" />
 
-- I’m currently working on  Soy Estudiante
-- ╰（‵□′）╯
-  
+- Soy Estudiante
   
 - I’m currently learning Git, github, html, css, JS y TS
     
-- ♨︎_♨︎ 
   
 
